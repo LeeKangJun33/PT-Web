@@ -1,4 +1,4 @@
-package com.example.ptweb.controller;
+package com.example.ptweb.controller.pass;
 
 import com.example.ptweb.Service.pass.Pass;
 import com.example.ptweb.Service.pass.PassService;

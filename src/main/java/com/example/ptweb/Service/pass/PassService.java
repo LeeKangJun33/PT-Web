@@ -12,6 +12,7 @@ public class PassService {
     private final PassRepository passRepository;
 
     public PassService(PassRepository passRepository){
+
         this.passRepository = passRepository;
     }
 
